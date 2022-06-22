@@ -4,7 +4,7 @@ Jupyter notebooks pour vous aider à démarrer avec tensorflow 2.0. Le référen
 
     $> pip install tensorflow
 
-## To get started
+## Pour commencer 
 
 1. Si vous êtes nouveau dans Tensorflow2.0 ou si vous aimez utiliser le bon vieux Tensorflow, vous pouvez commencer par ce cahier : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Introduction%20-%20Simple%20Neural%20Network.ipynb">Introduction - Simple Neural Network.ipynb</a>  Avec tensorflow2.0, il est fortement recommandé d'utiliser le module tf.keras si possible. Ce notebook vous donnera un premier exemple avec le Fashion MNIST Dataset.
 
