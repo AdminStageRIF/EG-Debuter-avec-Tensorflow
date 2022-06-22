@@ -1,28 +1,29 @@
+[![IT_AREA_logo_BMM_PNGG](https://user-images.githubusercontent.com/107033711/174778898-9c44aaee-eb70-4d38-b4b0-93c851e09c82.png)](https://sites.google.com/view/it-area/accueil)
 # Tensorflow2.0 - Examples
-Jupyter notebooks to help you started with tensorflow 2.0. The repository includes notebooks to start with simple NN, understand autograph, learn how to train models, CNN to analyze images with tf.data and RNN to generate text! 
+Jupyter notebooks pour vous aider à démarrer avec tensorflow 2.0. Le référentiel comprend des notebooks pour commencer avec des NN simples, comprendre l'autographie, apprendre à former des modèles, CNN pour analyser des images avec tf.data et RNN pour générer du texte ! 
 
     $> pip install tensorflow
 
 ## To get started
 
-1. If your are new into Tensorflow2.0 or you love to use some old fashion Tensorflow then you might want to start with this notebook: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Introduction%20-%20Simple%20Neural%20Network.ipynb">Introduction - Simple Neural Network.ipynb</a> With tensorflow2.0 it is higly recommend to use the tf.keras module if possible. This notebook will give you a first example with the Fashion MNIST Dataset.
+1. Si vous êtes nouveau dans Tensorflow2.0 ou si vous aimez utiliser le bon vieux Tensorflow, vous pouvez commencer par ce cahier : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Introduction%20-%20Simple%20Neural%20Network.ipynb">Introduction - Simple Neural Network.ipynb</a>  Avec tensorflow2.0, il est fortement recommandé d'utiliser le module tf.keras si possible. Ce notebook vous donnera un premier exemple avec le Fashion MNIST Dataset.
 
-2. Now that you are familar with tf.keras you can check the difference between eager mode and grah mode in this notebook:
+2. Maintenant que vous êtes familier avec tf.keras, vous pouvez vérifier la différence entre le mode eager et le mode grah dans ce cahier :
 <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Graph%20Mode%20vs%20Eager%20Mode.ipynb">Graph Mode vs Eager Mode.ipynb</a>.
 
-3. Training a model has never been so easy. Let's check how you can do it with this notebook: 
+3. Former un modèle n'a jamais été aussi facile. Voyons comment vous pouvez le faire avec cet ordinateur portable : 
 <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Train%20a%20model.ipynb">Train a model.ipynb</a>
 
-4. Learn how to use the Subclassing API to built your model: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Subclassing%20API.ipynb">
+4. Apprenez à utiliser l'API de sous-classement pour construire votre modèle : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Subclassing%20API.ipynb">
 Subclassing API</a>
 
-5. Learn how to create a custom Layer with low level operations: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Create%20custom%20layer.ipynb">Create your own layer</a>
+5. Apprenez à créer un calque personnalisé avec des opérations de bas niveau : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Create%20custom%20layer.ipynb">Create your own layer</a>
 
-## Projects examples
+## Projets exemples
 
-6. Learn how to create a CNN model to analayse the QuickDraw dataset. You will use autograph, the model subclassing API and tf.data: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
+6. Apprenez à créer un modèle CNN pour analyser l'ensemble de données QuickDraw. Vous utiliserez autograph, l'API de sous-classement de modèle et tf.data : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
 
-7. Learn how to generate text with an RNN. You will use a simple custom keras layer and autograph: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/RNN%20-%20Text%20Generator.ipynb">RNN - Text Generator.ipynb</a>
+7. Apprenez à générer du texte avec un RNN. Vous utiliserez une simple couche keras personnalisée et un autographe : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/RNN%20-%20Text%20Generator.ipynb">RNN - Text Generator.ipynb</a>
 
 
 
