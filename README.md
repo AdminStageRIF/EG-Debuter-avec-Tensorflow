@@ -21,7 +21,7 @@ Subclassing API</a>.
 
 ## Exemples de projets
 
-6. Apprenez à créer un modèle CNN pour analyser l'ensemble de données QuickDraw. Vous utiliserez autograph, l'API de sous-classement de modèle et tf.data : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
+6. Apprenez à créer un modèle CNN pour analyser l'ensemble de données QuickDraw. Vous utiliserez autograph, l'API de sous-classement de modèle et tf.data : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a>. 
 
 7. Apprenez à générer du texte avec un RNN. Vous utiliserez une simple couche keras personnalisée et un autographe : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/RNN%20-%20Text%20Generator.ipynb">RNN - Text Generator.ipynb</a>
 
