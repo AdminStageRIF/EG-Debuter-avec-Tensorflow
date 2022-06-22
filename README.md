@@ -12,7 +12,7 @@ Jupyter notebooks pour vous aider à démarrer avec tensorflow 2.0. Le référen
 <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/Graph%20Mode%20vs%20Eager%20Mode.ipynb">Graph Mode vs Eager Mode.ipynb</a>.
 
 3. Former un modèle n'a jamais été aussi facile. Voyons comment vous pouvez le faire avec cet ordinateur portable : 
-<a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Train%20a%20model.ipynb">Train a model.ipynb</a>.
+<a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/Train%20a%20model.ipynb">Train a model.ipynb</a>.
 
 4. Apprenez à utiliser l'API de sous-classement pour construire votre modèle : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/commit/554a3af7eed1961af14f874c521dbaaed6e3e4be">
 Subclassing API</a>
