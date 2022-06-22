@@ -19,7 +19,7 @@ Subclassing API</a>
 
 5. Apprenez à créer un calque personnalisé avec des opérations de bas niveau : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Create%20custom%20layer.ipynb">Create your own layer</a>
 
-## Projets exemples
+## Exemples de projets
 
 6. Apprenez à créer un modèle CNN pour analyser l'ensemble de données QuickDraw. Vous utiliserez autograph, l'API de sous-classement de modèle et tf.data : <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
 
