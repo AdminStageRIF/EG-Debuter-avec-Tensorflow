@@ -17,7 +17,7 @@ Jupyter notebooks pour vous aider à démarrer avec tensorflow 2.0. Le référen
 4. Apprenez à utiliser l'API de sous-classement pour construire votre modèle : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/commit/554a3af7eed1961af14f874c521dbaaed6e3e4be">
 Subclassing API</a>.
 
-5. Apprenez à créer un calque personnalisé avec des opérations de bas niveau : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/blob/main/Create%20custom%20layer.ipynb">Create your own layer</a>
+5. Apprenez à créer un calque personnalisé avec des opérations de bas niveau : <a href="https://github.com/AdminStageRIF/EG-Debuter-avec-Tensorflow/commit/554a3af7eed1961af14f874c521dbaaed6e3e4be">Create your own layer</a>
 
 ## Exemples de projets
 
